@@ -1,5 +1,5 @@
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
-/usr/bin/ruby -r ./siteconf20181014-20830-1ysjeqf.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181014-20359-v47xa2.rb extconf.rb
 creating Makefile
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
@@ -29,6 +29,6 @@ bootsnap.o: En la función `atomic_write_cache_file':
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181014-20830-o562kj/bootsnap
+/usr/bin/mkdir -p . ./.gem.20181014-20359-fl6t5o/bootsnap
 exit > .sitearchdir.-.bootsnap.time
-/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20181014-20830-o562kj/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20181014-20359-fl6t5o/bootsnap

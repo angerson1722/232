@@ -1,5 +1,5 @@
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/sqlite3-1.3.13/ext/sqlite3
-/usr/bin/ruby -r ./siteconf20181014-20830-pq0bsj.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181014-20359-1faq8ui.rb extconf.rb
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for sqlite3_libversion_number() in -lsqlite3... yes
@@ -33,6 +33,6 @@ gcc -shared -o sqlite3_native.so backup.o database.o exception.o sqlite3.o state
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/sqlite3-1.3.13/ext/sqlite3
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181014-20830-f3scdr/sqlite3
+/usr/bin/mkdir -p . ./.gem.20181014-20359-pjw2ky/sqlite3
 exit > .sitearchdir.-.sqlite3.time
-/usr/bin/install -c -m 0755 sqlite3_native.so ./.gem.20181014-20830-f3scdr/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.so ./.gem.20181014-20359-pjw2ky/sqlite3

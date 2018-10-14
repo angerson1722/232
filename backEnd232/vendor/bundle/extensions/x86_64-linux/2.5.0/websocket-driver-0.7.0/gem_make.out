@@ -1,5 +1,5 @@
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
-/usr/bin/ruby -r ./siteconf20181014-20830-jirzp8.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181014-20359-1repumm.rb extconf.rb
 creating Makefile
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
@@ -15,6 +15,6 @@ gcc -shared -o websocket_mask.so websocket_mask.o -L. -L/usr/lib64 -L. -Wl,-z,re
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181014-20830-1eq13zd
+/usr/bin/mkdir -p . ./.gem.20181014-20359-7bokya
 exit > .sitearchdir.time
-/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181014-20830-1eq13zd
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181014-20359-7bokya

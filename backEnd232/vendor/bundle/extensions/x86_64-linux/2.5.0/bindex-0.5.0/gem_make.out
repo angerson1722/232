@@ -1,5 +1,5 @@
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/bindex-0.5.0/ext/bindex
-/usr/bin/ruby -r ./siteconf20181014-20830-92j846.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181014-20359-phr3bo.rb extconf.rb
 creating Makefile
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/bindex-0.5.0/ext/bindex
@@ -15,6 +15,6 @@ gcc -shared -o cruby.so cruby.o -L. -L/usr/lib64 -L. -Wl,-z,relro  -Wl,-z,now -s
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/bindex-0.5.0/ext/bindex
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181014-20830-1kiuu6z/bindex
+/usr/bin/mkdir -p . ./.gem.20181014-20359-172xjdz/bindex
 exit > .sitearchdir.-.bindex.time
-/usr/bin/install -c -m 0755 cruby.so ./.gem.20181014-20830-1kiuu6z/bindex
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20181014-20359-172xjdz/bindex

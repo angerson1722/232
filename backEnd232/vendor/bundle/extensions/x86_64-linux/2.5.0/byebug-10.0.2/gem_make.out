@@ -1,5 +1,5 @@
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/byebug-10.0.2/ext/byebug
-/usr/bin/ruby -r ./siteconf20181014-20830-11rc3se.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181014-20359-r84hcr.rb extconf.rb
 creating Makefile
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/byebug-10.0.2/ext/byebug
@@ -19,6 +19,6 @@ gcc -shared -o byebug.so breakpoint.o byebug.o context.o locker.o threads.o -L. 
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/byebug-10.0.2/ext/byebug
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181014-20830-1vh50e4/byebug
+/usr/bin/mkdir -p . ./.gem.20181014-20359-1fxtv9p/byebug
 exit > .sitearchdir.-.byebug.time
-/usr/bin/install -c -m 0755 byebug.so ./.gem.20181014-20830-1vh50e4/byebug
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20181014-20359-1fxtv9p/byebug

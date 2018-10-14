@@ -1,5 +1,5 @@
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/puma-3.12.0/ext/puma_http11
-/usr/bin/ruby -r ./siteconf20181014-20830-19vus17.rb extconf.rb
+/usr/bin/ruby -r ./siteconf20181014-20359-1i0sl7.rb extconf.rb
 checking for BIO_read() in -lcrypto... no
 checking for BIO_read() in -llibeay32... no
 creating Makefile
@@ -20,6 +20,6 @@ gcc -shared -o puma_http11.so http11_parser.o io_buffer.o mini_ssl.o puma_http11
 
 current directory: /home/angerson/Documentos/DESARROLLO/Estudio/232-RubyIonic/backEnd232/vendor/bundle/gems/puma-3.12.0/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/mkdir -p . ./.gem.20181014-20830-xu5xwy/puma
+/usr/bin/mkdir -p . ./.gem.20181014-20359-63ssn7/puma
 exit > .sitearchdir.-.puma.time
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20181014-20830-xu5xwy/puma
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20181014-20359-63ssn7/puma
